@@ -1,7 +1,7 @@
 Informacja o programach PPK, PPE, IKZE, IKE i OIPE
 
 1. **Pracownicze Plany Kapitałowe (PPK)**:
-   - **Opis**: Program oszczędnościowy dla pracowników, finansowany przez pracodawców i pracowników. Są obowiazkowe dla duzych firm.
+   - **Opis**: Program oszczędnościowy dla pracowników, finansowany przez pracodawców i pracowników. Są obowiazkowe dla duzych firm, ale pracownik może indywidulanie z nich zrezygnować.
    - **Limit na 2024**: Brak limitu [ do uzupełnienia (teoretycznie coś tam jest , jak zarabia sie bardzo duzo) ]
 2. **Pracownicze Programy Emerytalne (PPE)**:
    - **Opis**: Dobrowolny program emerytalny oferowany przez pracodawców, głównie finansowany przez nich.
