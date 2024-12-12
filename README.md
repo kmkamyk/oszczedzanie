@@ -1,9 +1,8 @@
-Co to jest PPK, PPE, IKZE, IKE i OIPE
+Informacja o programach PPK, PPE, IKZE, IKE i OIPE
 
 1. **Pracownicze Plany Kapitałowe (PPK)**:
    - **Opis**: Program oszczędnościowy dla pracowników, finansowany przez pracodawców i pracowników. Są obowiazkowe dla duzych firm.
-   - **Limit na 2024**: Brak limitu - do uzupełnienia(teoretycznie coś tam jest , jak zarabia sie bardzo duzo PREZES
-
+   - **Limit na 2024**: Brak limitu [ do uzupełnienia (teoretycznie coś tam jest , jak zarabia sie bardzo duzo) ]
 2. **Pracownicze Programy Emerytalne (PPE)**:
    - **Opis**: Dobrowolny program emerytalny oferowany przez pracodawców, głównie finansowany przez nich.
    - **Limit na 2024**: Brak limitu - do uzupełnienia(teoretycznie coś tam jest , jak zarabia sie bardzo duzo PREZESs -)
@@ -17,7 +16,6 @@ Co to jest PPK, PPE, IKZE, IKE i OIPE
    - **Limit na 2024**:  23 472  zł
 
 5. **Otwarte Indywidualne Konto Emerytalne (OIPE)**:
-   
-   O tym nic nie wiem, do uzupełnienia.
+  > O tym nic nie wiem, do uzupełnienia.
    - **Opis**: Forma oszczędzania na emeryturę, która łączy cechy IKE i IKZE.
    - **Limit na 2024**: ???
